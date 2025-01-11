@@ -111,7 +111,9 @@ Kodun json kullanılmamış halini profilimden bulabilrisiniz orda kodu detaylı
 Bu projeyi geliştirerek yeni özellikler ekleyebilirsiniz! Aşağıdaki özellikler eklenebilir:
 
 1️)Dersin Kapanması: Dersin tamamlanma durumu ve kapanma tarihi eklenebilir.
+
 2️)Notlandırma Sistemi: Öğrenciler için sınav notları ve genel başarı durumu eklenebilir.
+
 3️)Yönetici Rolü: Yönetici kullanıcıları için daha fazla yetki eklenebilir.
 
 Projeye katkı sağlamak için pull request gönderebilirsiniz😊
