@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Matematik",
+    "Credits": 3,
+    "Instructor": {
+      "Name": "Salih",
+      "Surname": "Kabataş"
+    },
+    "EnrolledStudents": [
+      {
+        "Name": "Mehmet",
+        "Surname": "Kabataş"
+      },
+      {
+        "Name": "Yiğit",
+        "Surname": "Dokuz"
+      }
+    ]
+  },
+  {
+    "Name": "Beden Eğitimi",
+    "Credits": 1,
+    "Instructor": {
+      "Name": "Melih",
+      "Surname": "Pandır"
+    },
+    "EnrolledStudents": [
+      {
+        "Name": "Yiğit",
+        "Surname": "Dokuz"
+      }
+    ]
+  }
+]

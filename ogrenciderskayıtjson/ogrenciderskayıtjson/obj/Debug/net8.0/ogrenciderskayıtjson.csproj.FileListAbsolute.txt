@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\ogrenciderskayıtjson.exe
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\ogrenciderskayıtjson.deps.json
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\ogrenciderskayıtjson.runtimeconfig.json
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\ogrenciderskayıtjson.dll
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\ogrenciderskayıtjson.pdb
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.AssemblyInfo.cs
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrencid.413DBF39.Up2Date
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.dll
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\refint\ogrenciderskayıtjson.dll
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.pdb
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ogrenciderskayıtjson.genruntimeconfig.cache
+C:\Users\HP\source\repos\ogrenciderskayıtjson\ogrenciderskayıtjson\obj\Debug\net8.0\ref\ogrenciderskayıtjson.dll

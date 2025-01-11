@@ -1,0 +1,62 @@
+[
+  {
+    "EnrolledCourses": [
+      {
+        "Name": "Matematik",
+        "Credits": 3,
+        "Instructor": {
+          "Courses": [],
+          "Name": "Salih",
+          "Surname": "Kabataş",
+          "Id": 10
+        },
+        "EnrolledStudents": []
+      }
+    ],
+    "Name": "Mehmet",
+    "Surname": "Kabataş",
+    "Id": 3
+  },
+  {
+    "EnrolledCourses": [
+      {
+        "Name": "Matematik",
+        "Credits": 3,
+        "Instructor": {
+          "Courses": [],
+          "Name": "Salih",
+          "Surname": "Kabataş",
+          "Id": 0
+        },
+        "EnrolledStudents": [
+          {
+            "EnrolledCourses": [],
+            "Name": "Mehmet",
+            "Surname": "Kabataş",
+            "Id": 0
+          }
+        ]
+      },
+      {
+        "Name": "Beden Eğitimi",
+        "Credits": 1,
+        "Instructor": {
+          "Courses": [],
+          "Name": "Melih",
+          "Surname": "Pandır",
+          "Id": 20
+        },
+        "EnrolledStudents": []
+      }
+    ],
+    "Name": "Yiğit",
+    "Surname": "Dokuz",
+    "Id": 4
+  },
+  {
+    "EnrolledCourses": [],
+    "Name": "Burak",
+    "Surname": "Şahin",
+    "Id": 6
+  }
+]
