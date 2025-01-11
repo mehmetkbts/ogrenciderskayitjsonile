@@ -3,20 +3,30 @@ Bu uygulama, bir okul yönetim sistemini simüle eder ve öğrenci, öğretim g�
 
 ## Özellikler 🌟
 1)Öğrenci Tanımlama: Öğrenci adı, soyadı ve ID'si ile öğrenci kaydı yapılabilir.
+
 2️)Öğretim Görevlisi Tanımlama: Öğretim görevlisi adı, soyadı ve ID'si ile öğretim görevlisi kaydı yapılabilir.
+
 3️)Ders Tanımlama: Ders adı, kredisi ve öğretim görevlisi belirlenerek yeni dersler oluşturulabilir.
+
 4️)Ders Detaylarını Görüntüleme: Oluşturulan derslerin detayları (ad, kredi, öğretim görevlisi, öğrenciler) gösterilebilir.
+
 5️)Öğrenci Kaydı Yapma: Öğrenciler, mevcut derslere kayıt olabilirler.
+
 6️)JSON Veritabanı: Öğrenciler, öğretim görevlileri ve dersler JSON dosyalarına kaydedilir ve her uygulama çalıştırıldığında bu dosyalardan yüklenir.
 
 ## Kullanıcı Arayüzü
 Program, kullanıcıya bir menü sunarak çeşitli işlemleri yapmasını sağlar. Menü seçenekleri şu şekildedir:
 
 1)Öğrenci Tanımla: Yeni bir öğrenci ekler.
+
 2Öğretim Görevlisi Tanımla: Yeni bir öğretim görevlisi ekler.
+
 3Ders Tanımla: Yeni bir ders ekler.
+
 4)Dersin Detaylarını Göster: Mevcut derslerin detaylarını görüntüler.
+
 5)Öğrenci Kaydı Yap: Öğrencilerin derslere kayıt olmasını sağlar.
+
 6)Çıkış: Programdan çıkış yapar
 
 ## Kullanım 📋
