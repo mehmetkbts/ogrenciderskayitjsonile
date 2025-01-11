@@ -44,8 +44,11 @@ Proje Dosyasını İndirin:
 
 ## Çalıştırma 🚀
 1)Uygulamayı Başlatın: Uygulamayı çalıştırdığınızda, ana menü ekranda belirecektir.
-2)Menüyü Kullanarak İşlemleri Yapın:
+
+2)Menüyü Kullanarak İşlemleri Yapın
+
 3)Menüdeki sayısal seçeneklere göre işlemleri gerçekleştirebilirsiniz. Örneğin, 1 tuşuna basarak öğrenci ekleyebilir, 3 tuşuna basarak ders ekleyebilirsiniz.
+
 4)JSON Dosyaları: Veriler students.json, instructors.json ve courses.json dosyalarına kaydedilecektir. Bu dosyalar uygulama her başlatıldığında otomatik olarak yüklenir.
 
 ## JSON Dosya Yapısı 📂
